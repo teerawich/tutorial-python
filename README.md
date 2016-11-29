@@ -3,15 +3,15 @@
 Agenda
 ---------------------
 
-## Basic python
-- usage
-- variable
-    - string
-    - list
-    - tuple
-    - dictionary
-- flow control
-- io control
+-Basic python
+    - usage
+    - variable
+        - string
+        - list
+        - tuple
+        - dictionary
+    - flow control
+    - io control
 
 Robot Framework
 ---------------------
