@@ -1,7 +1,6 @@
 # tutorial-python
 
-Agenda
----------------------
+## Agenda
 
 Basic python
     - usage
@@ -13,9 +12,7 @@ Basic python
     - flow control
     - io control
 
-Robot Framework
----------------------
+## Robot Framework
 
 
-Reference
----------------------
+## Reference
