@@ -3,7 +3,11 @@
 ## Agenda
 
 Basic Python
-สรุปเนื้อหาเบื้องต้นสำหรับการเริ่มเรียนรู้ Python เพื่อนำไปต่อยอด  
+
+
+สรุปเนื้อหาเบื้องต้นสำหรับการเริ่มเรียนรู้ Python เพื่อนำไปต่อยอด
+
+
     - Usage
         - Basic Syntax
         - Basic Operation
@@ -26,5 +30,7 @@ Basic Python
 ## Reference
 Github command line
 - https://try.github.io/levels/1/challenges/1
+
+
 Python Basic
 - https://www.tutorialspoint.com/python/
