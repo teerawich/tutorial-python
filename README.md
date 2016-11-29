@@ -2,7 +2,7 @@
 
 ## Agenda
 
-Basic python
+Basic Python
     
     - usage
     - variable
