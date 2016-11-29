@@ -3,7 +3,7 @@
 ## Agenda
 
 Basic Python
-    
+สรุปเนื้อหาเบื้องต้นสำหรับการเริ่มเรียนรู้ Python เพื่อนำไปต่อยอด  
     - Usage
         - Basic Syntax
         - Basic Operation
