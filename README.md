@@ -7,6 +7,9 @@ Basic python
 - usage
 - variable
     - string
+    - list
+    - tuple
+    - dictionary
 - flow control
 
 
