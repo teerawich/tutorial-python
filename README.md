@@ -23,6 +23,8 @@ Basic Python
     - Functions
     - Modules
     - Exceptions
+    - example
+        - Web
 
 ## Robot Framework
 
