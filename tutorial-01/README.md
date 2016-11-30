@@ -3,6 +3,18 @@
 
 Numbers
 ------------------
+เป็นตัวแปรที่อยู่ในรูปของตัวเลขใดๆ เช่น
+
+
+num = 100
+num_2 = 100.0
+num_3 = -100
+num_4 = -100.0
+
+print (num)
+print (num_2 * 2)
+print (num_3 / 100)
+print (num_4 + num_3)
 
 
 String
