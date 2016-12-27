@@ -26,6 +26,18 @@ Basic Python
     - example
         - Web
 
+## virtualenv
+หลังจากลง python แล้วในกรณีที่มีหลาย version แต่ต้องการเลือกใช้ version เฉพาะสำหรับการทำงานของ code ชุดนี้ เราสามารถทำแบบนั้นได้ โดยผ่าน Module ที่ชื่อว่า virtualenv
+
+- Installation
+    - pip install virtualenv
+- create environment
+    - virtualinstall -p <path to python.exe> <env_name>
+- activate package (Windows)
+    - env_name\Scripts\activate
+- check package in env
+    - pip freeze
+
 ## Robot Framework
 
 
